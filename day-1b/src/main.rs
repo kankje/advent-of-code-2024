@@ -19,12 +19,9 @@ fn main() {
         acc
     });
 
-
     let total_similarity: i32 = left
         .iter()
-        .map(|l| {
-            l.parse::<i32>().unwrap() * right_counts.get(l).unwrap_or(&0)
-        })
+        .map(|l| l.parse::<i32>().unwrap() * right_counts.get(l).unwrap_or(&0))
         .sum();
 
     println!("{}", total_similarity);
