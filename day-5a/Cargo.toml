@@ -1,6 +1,0 @@
-[package]
-name = "day-5a"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]

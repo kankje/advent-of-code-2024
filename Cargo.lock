@@ -12,114 +12,114 @@ dependencies = [
 ]
 
 [[package]]
+name = "day-01a"
+version = "0.1.0"
+
+[[package]]
+name = "day-01b"
+version = "0.1.0"
+
+[[package]]
+name = "day-02a"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-02b"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-03a"
+version = "0.1.0"
+dependencies = [
+ "regex",
+]
+
+[[package]]
+name = "day-03b"
+version = "0.1.0"
+dependencies = [
+ "regex",
+]
+
+[[package]]
+name = "day-04a"
+version = "0.1.0"
+
+[[package]]
+name = "day-04b"
+version = "0.1.0"
+
+[[package]]
+name = "day-05a"
+version = "0.1.0"
+
+[[package]]
+name = "day-05b"
+version = "0.1.0"
+
+[[package]]
+name = "day-06a"
+version = "0.1.0"
+
+[[package]]
+name = "day-06b"
+version = "0.1.0"
+
+[[package]]
+name = "day-07a"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-07b"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-08a"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-08b"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-09a"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
+name = "day-09b"
+version = "0.1.0"
+dependencies = [
+ "itertools",
+]
+
+[[package]]
 name = "day-10a"
 version = "0.1.0"
 
 [[package]]
 name = "day-10b"
 version = "0.1.0"
-
-[[package]]
-name = "day-1a"
-version = "0.1.0"
-
-[[package]]
-name = "day-1b"
-version = "0.1.0"
-
-[[package]]
-name = "day-2a"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-2b"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-3a"
-version = "0.1.0"
-dependencies = [
- "regex",
-]
-
-[[package]]
-name = "day-3b"
-version = "0.1.0"
-dependencies = [
- "regex",
-]
-
-[[package]]
-name = "day-4a"
-version = "0.1.0"
-
-[[package]]
-name = "day-4b"
-version = "0.1.0"
-
-[[package]]
-name = "day-5a"
-version = "0.1.0"
-
-[[package]]
-name = "day-5b"
-version = "0.1.0"
-
-[[package]]
-name = "day-6a"
-version = "0.1.0"
-
-[[package]]
-name = "day-6b"
-version = "0.1.0"
-
-[[package]]
-name = "day-7a"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-7b"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-8a"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-8b"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-9a"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
-
-[[package]]
-name = "day-9b"
-version = "0.1.0"
-dependencies = [
- "itertools",
-]
 
 [[package]]
 name = "either"
