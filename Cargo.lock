@@ -359,6 +359,20 @@ name = "day-19b"
 version = "0.1.0"
 
 [[package]]
+name = "day-20a"
+version = "0.1.0"
+dependencies = [
+ "cgmath",
+]
+
+[[package]]
+name = "day-20b"
+version = "0.1.0"
+dependencies = [
+ "cgmath",
+]
+
+[[package]]
 name = "either"
 version = "1.13.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
