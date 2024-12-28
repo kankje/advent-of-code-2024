@@ -1,4 +1,4 @@
 [workspace]
 
 resolver = "2"
-members = ["day-01a", "day-01b", "day-02a", "day-02b", "day-03a", "day-03b", "day-04a", "day-04b", "day-05a", "day-05b", "day-06a", "day-06b", "day-07a", "day-07b", "day-08a", "day-08b", "day-09a", "day-09b", "day-10a", "day-10b", "day-11a", "day-11b", "day-12a", "day-12b", "day-13a", "day-13b", "day-14a", "day-14b", "day-15a", "day-15b", "day-16a", "day-16b", "day-17a", "day-17b", "day-18a", "day-18b", "day-19a", "day-19b", "day-20a", "day-20b", "day-21a", "day-21b", "day-22a", "day-22b", "day-23a", "day-23b"]
+members = ["day-01a", "day-01b", "day-02a", "day-02b", "day-03a", "day-03b", "day-04a", "day-04b", "day-05a", "day-05b", "day-06a", "day-06b", "day-07a", "day-07b", "day-08a", "day-08b", "day-09a", "day-09b", "day-10a", "day-10b", "day-11a", "day-11b", "day-12a", "day-12b", "day-13a", "day-13b", "day-14a", "day-14b", "day-15a", "day-15b", "day-16a", "day-16b", "day-17a", "day-17b", "day-18a", "day-18b", "day-19a", "day-19b", "day-20a", "day-20b", "day-21a", "day-21b", "day-22a", "day-22b", "day-23a", "day-23b", "day-24a", "day-24b"]
